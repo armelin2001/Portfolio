@@ -17,9 +17,6 @@ namespace Portifolio.Controllers {
             return View();
         }
 
-        public IActionResult Contato() {
-            return View();
-        }
         public IActionResult Portifolio() {
             return View();
         }
